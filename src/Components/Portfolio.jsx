@@ -31,16 +31,14 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Web Development for Beginners",
+    title: "Chat App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a real-time chatting application using React js, for client side and firebase for the server side of the app",
   },
   {
-    title: "My Resume Site",
+    title: "Weather App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a Weather App Using HTML, CSS, JavaScript with the help of Public Api’s using JavaScript Fetch and Promise where user can see the current weather by entering their city name in the Search box with additional details like humidity and wind speed.",
   },
 ];
 
