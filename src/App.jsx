@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/namanshu-kumar-a68aaa284",
   medium: "",
   twitter: "",
-  youTube: "Code",
+  youTube: "https://www.youtube.com/@namanshufacts",
 };
 
 const primaryColor = "#4E567E";
